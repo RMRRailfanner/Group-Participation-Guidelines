@@ -12,7 +12,7 @@ These standards apply to all of your actions in our community and with other mem
 
 We appreciate your cooperation with these rules and commitment to making our community a safe and respectful space for everyone.
 
-SAFETY
+SAFETY:
 Our community prioritizes safety and inclusivity for all members, regardless of identity or beliefs. To maintain this environment, the following guidelines are strictly enforced:
 
 Child Endangerment: We maintain a zero-tolerance policy regarding endangerment of minors. This includes prohibiting any posts or discussions that:
@@ -55,7 +55,7 @@ Dangerous Activities: We do not permit discussions or posts that encourage or de
 * Drunk driving or use of weapons inappropriately
 * Engaging in risky activities that may cause harm
 
-CIVILITY & RESPECT
+CIVILITY & RESPECT:
 All members are expected to treat each other with kindness and respect. To foster a civil environment, the following guidelines are in place:
 Discrimination and Hate Speech: Any posts or discussions containing discrimination, slurs, or hate speech are strictly prohibited. This includes:
 * Targeting individuals or communities with discriminatory language or behavior
@@ -72,7 +72,7 @@ Real Life Tragedy Events: We do not permit the promotion or discussion of real-w
 * Posting or sharing content related to sensitive events
 * Mocking or reenacting tragic incidents
 
-FAIRNESS & TRANSPARENCY
+FAIRNESS & TRANSPARENCY:
 Our community values transparency and fairness in all interactions. To maintain this ethos, the following guidelines are enforced:
 Scams: Any attempts to deceive or defraud members through scams are strictly prohibited, including:
 * Misleading members into fraudulent schemes
@@ -83,7 +83,7 @@ Spam: We do not tolerate spam or unsolicited advertisements, including:
 * Impersonation: Any attempts to impersonate members or administrators for deceptive purposes are strictly prohibited.
 * Advertising: While advertising is permitted, promotional content must adhere to our community standards of respect and civility.
 
-SECURITY & PRIVACY
+SECURITY & PRIVACY:
 To ensure the safety and privacy of our members, certain guidelines regarding personal information and digital security are in place:
 Privacy Protection: We do not allow the sharing or solicitation of personal information, including:
 * Sharing of others' personal details
@@ -92,7 +92,7 @@ Harmful Platform Referrals: Members are prohibited from directing others to plat
 * Websites or forums promoting violence, hate speech, scams, or malware
 * Platforms encouraging unethical behavior
 
-MISUSING GROUP FEATURES
+MISUSING GROUP FEATURES:
 Our community maintains various features to ensure the safety and security of our members. Misuse of these features is strictly prohibited, including:
 * Using borrowed accounts to evade suspensions
 * Masking location with VPNs to evade suspensions
