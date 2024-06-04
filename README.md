@@ -84,8 +84,10 @@ Scams: Any attempts to deceive or defraud members through scams are strictly pro
 Spam: We do not tolerate spam or unsolicited advertisements, including:
 * Repetitive posting or flooding of content
 * Promotion of unrelated products or services
-* Impersonation: Any attempts to impersonate members or administrators for deceptive purposes are strictly prohibited.
-* Advertising: While advertising is permitted, promotional content must adhere to our community standards of respect and civility.
+
+Impersonation: Any attempts to impersonate members or administrators for deceptive purposes are strictly prohibited.
+
+Advertising: While advertising is permitted, promotional content must adhere to our community standards of respect and civility.
 
 **SECURITY & PRIVACY:
 To ensure the safety and privacy of our members, certain guidelines regarding personal information and digital security are in place:**
@@ -93,6 +95,7 @@ To ensure the safety and privacy of our members, certain guidelines regarding pe
 Privacy Protection: We do not allow the sharing or solicitation of personal information, including:
 * Sharing of others' personal details
 * Requesting personal information such as phone numbers, emails, or physical addresses (aka house locations)
+
 Harmful Platform Referrals: Members are prohibited from directing others to platforms known for harmful or illegal activities, including:
 * Websites or forums promoting violence, hate speech, scams, or malware
 * Platforms encouraging unethical behavior
