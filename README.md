@@ -12,6 +12,8 @@ These standards apply to all of your actions in our community and with other mem
 
 We appreciate your cooperation with these rules and commitment to making our community a safe and respectful space for everyone.
 
+Support Form: https://docs.google.com/forms/d/e/1FAIpQLSd9qeIY1Z7R4mW8Uqn0eafocVJts_vRH2sk4JVSHusMsJfz4Q/viewform
+
 SAFETY:
 Our community prioritizes safety and inclusivity for all members, regardless of identity or beliefs. To maintain this environment, the following guidelines are strictly enforced:
 
