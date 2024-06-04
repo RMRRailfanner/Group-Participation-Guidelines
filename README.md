@@ -14,6 +14,7 @@ We appreciate your cooperation with these rules and commitment to making our com
 
 **SAFETY:
 Our community prioritizes safety and inclusivity for all members, regardless of identity or beliefs. To maintain this environment, the following guidelines are strictly enforced:**
+
 Child Endangerment: We maintain a zero-tolerance policy regarding endangerment of minors. This includes prohibiting any posts or discussions that:
 * Include any predatory behavior, including attempting to befriend a minor in order to manipulate and exploit them (aka grooming)
 * Sexualize minors in any manner
@@ -55,8 +56,8 @@ Dangerous Activities: We do not permit discussions or posts that encourage or de
 * Engaging in risky activities that may cause harm
 
 **CIVILITY & RESPECT:
-All members are expected to treat each other with kindness and respect. To foster a civil environment, the following guidelines are in place:
-Discrimination and Hate Speech: Any posts or discussions containing discrimination, slurs, or hate speech are strictly prohibited. This includes:**
+All members are expected to treat each other with kindness and respect. To foster a civil environment, the following guidelines are in place:**
+Discrimination and Hate Speech: Any posts or discussions containing discrimination, slurs, or hate speech are strictly prohibited. This includes:
 * Targeting individuals or communities with discriminatory language or behavior
 * Dating and Romantic Content: Our community does not allow any content of a romantic nature, including:
 * Depictions of romantic gestures, intimacy, or weddings
@@ -72,8 +73,8 @@ Real Life Tragedy Events: We do not permit the promotion or discussion of real-w
 * Mocking or reenacting tragic incidents
 
 **FAIRNESS & TRANSPARENCY:
-Our community values transparency and fairness in all interactions. To maintain this ethos, the following guidelines are enforced:
-Scams: Any attempts to deceive or defraud members through scams are strictly prohibited, including:**
+Our community values transparency and fairness in all interactions. To maintain this ethos, the following guidelines are enforced:**
+Scams: Any attempts to deceive or defraud members through scams are strictly prohibited, including:
 * Misleading members into fraudulent schemes
 * Soliciting money or personal information under false pretenses
 Spam: We do not tolerate spam or unsolicited advertisements, including:
@@ -83,8 +84,8 @@ Spam: We do not tolerate spam or unsolicited advertisements, including:
 * Advertising: While advertising is permitted, promotional content must adhere to our community standards of respect and civility.
 
 **SECURITY & PRIVACY:
-To ensure the safety and privacy of our members, certain guidelines regarding personal information and digital security are in place:
-Privacy Protection: We do not allow the sharing or solicitation of personal information, including:**
+To ensure the safety and privacy of our members, certain guidelines regarding personal information and digital security are in place:**
+Privacy Protection: We do not allow the sharing or solicitation of personal information, including:
 * Sharing of others' personal details
 * Requesting personal information such as phone numbers, emails, or physical addresses (aka house locations)
 Harmful Platform Referrals: Members are prohibited from directing others to platforms known for harmful or illegal activities, including:
