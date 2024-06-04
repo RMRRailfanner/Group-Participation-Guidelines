@@ -57,6 +57,7 @@ Dangerous Activities: We do not permit discussions or posts that encourage or de
 
 **CIVILITY & RESPECT:
 All members are expected to treat each other with kindness and respect. To foster a civil environment, the following guidelines are in place:**
+
 Discrimination and Hate Speech: Any posts or discussions containing discrimination, slurs, or hate speech are strictly prohibited. This includes:
 * Targeting individuals or communities with discriminatory language or behavior
 * Dating and Romantic Content: Our community does not allow any content of a romantic nature, including:
@@ -74,9 +75,11 @@ Real Life Tragedy Events: We do not permit the promotion or discussion of real-w
 
 **FAIRNESS & TRANSPARENCY:
 Our community values transparency and fairness in all interactions. To maintain this ethos, the following guidelines are enforced:**
+
 Scams: Any attempts to deceive or defraud members through scams are strictly prohibited, including:
 * Misleading members into fraudulent schemes
 * Soliciting money or personal information under false pretenses
+
 Spam: We do not tolerate spam or unsolicited advertisements, including:
 * Repetitive posting or flooding of content
 * Promotion of unrelated products or services
@@ -85,6 +88,7 @@ Spam: We do not tolerate spam or unsolicited advertisements, including:
 
 **SECURITY & PRIVACY:
 To ensure the safety and privacy of our members, certain guidelines regarding personal information and digital security are in place:**
+
 Privacy Protection: We do not allow the sharing or solicitation of personal information, including:
 * Sharing of others' personal details
 * Requesting personal information such as phone numbers, emails, or physical addresses (aka house locations)
@@ -94,6 +98,7 @@ Harmful Platform Referrals: Members are prohibited from directing others to plat
 
 **MISUSING GROUP FEATURES:
 Our community maintains various features to ensure the safety and security of our members. Misuse of these features is strictly prohibited, including:**
+
 * Using borrowed accounts to evade suspensions
 * Masking location with VPNs to evade suspensions
 * Tag and Mention Misuse
