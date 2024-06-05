@@ -65,7 +65,8 @@ Discrimination and Hate Speech: Any posts or discussions containing discriminati
 
 Profanity: Members are expected to maintain a respectful tone in their interactions. We do not permit excessive or inappropriate language in posts or discussions, including:
 * Text, music videos, or images containing profanity
-* Extortion and Blackmail: Any attempts to coerce or manipulate others through extortion or blackmail are strictly prohibited.
+
+Extortion and Blackmail: Any attempts to coerce or manipulate others through extortion or blackmail are strictly prohibited
 
 Political Content: Our community does not allow sharing of political news or discussions related to elections. This includes:
 * Posting information regarding political candidates or outcomes
