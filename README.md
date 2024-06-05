@@ -42,7 +42,7 @@ Violence and Gore: Content featuring graphic violence or gore is prohibited, inc
 * Disturbing images depicting violent acts or gore
 * Videos showcasing violent incidents
 
-Terrorism and Extremism: Our community maintains a zero-tolerance policy for terrorism and violent extremism. Any content promoting or glorifying such acts is not tolerated, including:
+Terrorism and Violent Extremism: Our community maintains a zero-tolerance policy for terrorism and violent extremism. Any content promoting or glorifying such acts is not tolerated, including:
 * Endorsement of terrorist activities or ideologies
 * Sharing of related symbols or slogans
 
