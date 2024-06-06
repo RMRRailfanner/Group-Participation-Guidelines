@@ -15,9 +15,9 @@ We appreciate your cooperation with these rules and commitment to making our com
 **SAFETY:
 Our community prioritizes safety and inclusivity for all members, regardless of identity or beliefs. To ensure that our community is a place where everyone feels safe and comfortable being here, the following is not allowed:**
 
-Child Endangerment: We maintain a zero-tolerance policy regarding endangerment of minors. This includes prohibiting any posts or discussions that:
-* Include any predatory behavior, including attempting to befriend a minor in order to manipulate and exploit them (aka grooming)
-* Sexualize minors in any manner
+Child Endangerment: We have a zero-tolerance policy for endangering minors in any way, Including:
+* Any predatory behavior, including attempting to befriend a minor in order to manipulate and exploit them (aka grooming)
+* Sexualizing minors in any manner
 * Facilitate minors engaging in sexual conversations or soliciting sexual content
 * Share or request any form of Child Exploitation Material
 
