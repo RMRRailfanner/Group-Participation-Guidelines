@@ -13,7 +13,7 @@ These standards apply to all of your actions in our community and with other mem
 We appreciate your cooperation with these rules and commitment to making our community a safe and respectful space for everyone.
 
 **SAFETY:
-Our community prioritizes safety and inclusivity for all members, regardless of identity or beliefs. To maintain this environment, the following guidelines are strictly enforced:**
+Our community prioritizes safety and inclusivity for all members, regardless of identity or beliefs. To ensure that our community is a place where everyone feels safe and comfortable being here, the following is not allowed:**
 
 Child Endangerment: We maintain a zero-tolerance policy regarding endangerment of minors. This includes prohibiting any posts or discussions that:
 * Include any predatory behavior, including attempting to befriend a minor in order to manipulate and exploit them (aka grooming)
@@ -56,7 +56,7 @@ Dangerous Activities: We do not permit discussions or posts that encourage or de
 * Engaging in risky activities that may cause harm
 
 **CIVILITY & RESPECT:
-All members are expected to treat each other with kindness and respect. To foster a civil environment, the following guidelines are in place:**
+All members are expected to treat each other with kindness and respect. To foster a civil environment, the following is prohibited:**
 
 Discrimination and Hate Speech: Any posts or discussions containing discrimination, slurs, or hate speech are strictly prohibited. This includes:
 * Targeting individuals or communities with discriminatory language or behavior
@@ -76,7 +76,7 @@ Real Life Tragedy Events: We do not permit the promotion or discussion of real-w
 * Mocking or reenacting tragic incidents
 
 **FAIRNESS & TRANSPARENCY:
-Our community values transparency and fairness in all interactions. To maintain this ethos, the following guidelines are enforced:**
+Our community values transparency and fairness in all interactions. To maintain this ethos, the following is not allowed:**
 
 Scams: Any attempts to deceive or defraud members through scams are strictly prohibited, including:
 * Misleading members into fraudulent schemes
@@ -91,7 +91,7 @@ Impersonation: Any attempts to impersonate members or administrators for decepti
 Advertising: While advertising is permitted, promotional content must adhere to our community standards of respect and civility.
 
 **SECURITY & PRIVACY:
-To ensure the safety and privacy of our members, certain guidelines regarding personal information and digital security are in place:**
+To ensure the safety and privacy of our members, certain guidelines regarding personal information and digital security are in place, including:**
 
 Privacy Protection: We do not allow the sharing or solicitation of personal information, including:
 * Sharing of others' personal details
