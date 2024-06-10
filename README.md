@@ -151,4 +151,4 @@ Our community maintains various features to ensure the safety and security of ou
 * Falsely reporting posts to incriminate others
 * Wasting moderators' time with frivolous reports.
 
-By joining our community, you agree to respect these standards. Violations may result in temporary or permanent suspensions. Let's work together to create a safe and welcoming space for everyone. and if there is anything you want to know or something here sounds confusing, do not hesitate to ask
+By joining our community, you agree to respect these standards. Violations may result in temporary or permanent suspensions. Let's work together to create a safe and welcoming space for everyone. and if you have any questions, fill out our support form here: (https://docs.google.com/forms/d/e/1FAIpQLSd9qeIY1Z7R4mW8Uqn0eafocVJts_vRH2sk4JVSHusMsJfz4Q/viewform)
