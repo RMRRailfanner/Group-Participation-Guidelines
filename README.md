@@ -1,19 +1,19 @@
-We are building our community: a space for people to experience and learn about the railfanning hobby and we are a global community on this journey together, and we want to ensure everyone feels welcome and safe and is treated with kindness and respect in our community. That’s why we’ve created these Community Standards: to outline how we expect our members to behave, and to be clear up front about what is and isn’t allowed in our community.
+We are building our community: a space for people to experience and learn about the railfanning hobby and we are a global community on this journey together, and we want to ensure everyone feels welcome and safe and is treated with kindness and respect in our community. That’s why we’ve created these Participation Guidelines: to outline how we expect our members to behave, and to be clear up front about what is and isn’t allowed in our community.
 
-Our Community Standards are organized into five sections:
+Our Group Participation Guidelines are organized into five sections:
 
 * Safety
 * Civility and Respect
 * Fairness and Transparency
 * Security and Privacy
-* Misusing Group Features
+* Inappropriate Use of Group Features
 
-These standards apply to all of your actions in our community and with other members. We ask that you respect our standards — and understand that violating them may result in temporary or permanent suspensions from our community.. We’re always learning, so as our community evolves and grows, these Community Standards may also change.
+These guidelines apply to all of your actions in our community and with other members. We ask that you respect our standards — and understand that violating them may result in temporary or permanent suspensions from our community.. We’re always learning, so as our community evolves and grows, these Community Standards may also change.
 
-We appreciate your cooperation with these rules and commitment to making our community a safe and respectful space for everyone.
+We appreciate your cooperation with these guidelines and commitment to making our community a safe and respectful space for everyone.
 
 **SAFETY:
-Our community prioritizes safety and inclusivity for all members, regardless of identity or beliefs. To ensure that our community is a place where everyone feels safe and comfortable being here, the following is not allowed:**
+Our community prioritizes safety and inclusivity for all members, regardless of their identity or beliefs. To ensure that our community is a place where everyone feels safe and comfortable being here, the following is not allowed:**
 
 Child Endangerment: We have a zero-tolerance policy for endangering minors, Including:
 * Any predatory behavior, including attempting to befriend a minor in order to manipulate and exploit them (aka grooming)
@@ -76,7 +76,7 @@ Dangerous Activities: We do not permit discussions or posts that encourage or de
 * Engaging in risky activities that may cause harm
 
 **CIVILITY & RESPECT:
-All members are expected to treat each other with kindness and respect. To foster a civil environment, the following is prohibited:**
+All members are expected to treat each other with kindness and respect. To ensure that our community is a civil environment for everyone, the following is prohibited:**
 
 Discrimination and Hate Speech: Any posts or discussions containing discrimination, slurs, or hate speech are strictly prohibited. This includes:
 * Age
@@ -111,7 +111,7 @@ Real Life Tragedy Events: We do not permit the promotion or discussion of real-w
 * Mocking or reenacting tragic incidents
 
 **FAIRNESS & TRANSPARENCY:
-Our community values transparency and fairness in all interactions. To maintain this ethos, the following is not allowed:**
+Our community values transparency and fairness in all interactions. To maintain this ethos, the following is not prohibited:**
 
 Scamming: Any attempts to deceive or defraud members through scams are strictly prohibited, including:
 * Misleading members into fraudulent schemes
@@ -122,7 +122,6 @@ Spamming: We do not tolerate spam or unsolicited advertisements, including:
 * Promotion of unrelated products or services
 
 Impersonation: Any attempts to impersonate members or administrators for deceptive purposes are strictly prohibited.
-
 Advertising: While advertising is permitted, promotional content must adhere to our community standards of respect and civility.
 
 **SECURITY & PRIVACY:
@@ -141,17 +140,17 @@ Harmful Platform Referrals: Members are prohibited from directing others to plat
 * Websites or forums promoting violence, hate speech, scams, or malware
 * Platforms encouraging unethical behavior
 
-**MISUSING GROUP FEATURES:
+**INAPPROPRIATE USE OF GROUP FEATURES:
 Our community maintains various features to ensure the safety and security of our members. Misuse of these features is strictly prohibited, including:**
 
 * Using borrowed accounts to evade suspensions
 * Masking location with VPNs to evade suspensions
-* Tag and Mention Misuse
-* Reaction Button Misuse
-* Falsely reporting posts to incriminate others
+* Tagging others in Posts
+* Spamming Reactions to Posts
+* Spam Reports other posts, especially if it doesn't violate our group participation guidelines
 * Wasting moderators' time with frivolous reports.
 
-By joining our community, you agree to respect these standards. Violations may result in temporary or permanent suspensions. Let's work together to create a safe and welcoming space for everyone.
+By joining our community, you agree to respect these guidelines. Violations of these set guidelines may result in temporary or permanent suspensions. Let's work together to create a safe and welcoming space for everyone.
 
 Support Form:
 https://docs.google.com/forms/d/e/1FAIpQLSd9qeIY1Z7R4mW8Uqn0eafocVJts_vRH2sk4JVSHusMsJfz4Q/viewform
