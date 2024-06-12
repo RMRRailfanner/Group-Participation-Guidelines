@@ -152,5 +152,5 @@ Our community maintains various features to ensure the safety and security of ou
 
 By joining our community, you agree to respect these guidelines. Violations of these set guidelines may result in temporary or permanent suspensions. Let's work together to create a safe and welcoming space for everyone.
 
-Support Form:
+Community Assistance Form:
 https://docs.google.com/forms/d/e/1FAIpQLSd9qeIY1Z7R4mW8Uqn0eafocVJts_vRH2sk4JVSHusMsJfz4Q/viewform
