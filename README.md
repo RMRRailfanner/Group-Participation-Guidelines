@@ -141,7 +141,7 @@ Harmful Platform Referrals: Members are prohibited from directing others to plat
 * Platforms encouraging unethical behavior
 
 **INAPPROPRIATE USE OF GROUP FEATURES:
-Our community maintains various features to ensure the safety and security of our members. Misuse of these features is strictly prohibited, including:**
+Our community maintains various features to ensure the safety and security of our members. Inappropriate use of these features is strictly prohibited, including:**
 
 * Using borrowed accounts to evade suspensions
 * Masking location with VPNs to evade suspensions
