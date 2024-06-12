@@ -13,9 +13,9 @@ These guidelines apply to all of your actions in our community and with other me
 We appreciate your cooperation with these guidelines and commitment to making our community a safe and respectful space for everyone.
 
 **SAFETY:
-Our community prioritizes safety and inclusivity for all members, regardless of their identity or beliefs. To ensure that our community is a place where everyone feels safe and comfortable being here, the following is not allowed:**
+We want our community to be a place where our members can connect with optimism and civility, regardless of their identity or beliefs. To ensure that our community is a place where everyone feels safe and comfortable being here, the following is not allowed:**
 
-Child Endangerment: We have a zero-tolerance policy for endangering minors, Including:
+Child Endangerment: The community of Railway Adventures has a zero-tolerance policy for endangering minors, Including:
 * Any predatory behavior, including attempting to befriend a minor in order to manipulate and exploit them (aka grooming)
 * Sexualizing minors in any way
 * Engaging in sexual conversation with or soliciting sexual material from minors
@@ -53,7 +53,7 @@ Violent Content and Gore: Content featuring graphic violence or gore is prohibit
 * Disturbing images depicting violent acts or gore
 * Videos showcasing violent incidents
 
-Terrorism and Violent Extremism: We have a zero-tolerance policy for terrorism and violent extremism. Any content promoting or glorifying such acts is not tolerated, including:
+Terrorism and Violent Extremism: The community of Railway Adventures has a zero-tolerance policy for terrorism and violent extremism. Any content promoting or glorifying such acts is not tolerated, including:
 * Depictions of or support for terrorist or extremist attacks
 * Depictions of or support for the leaders or representatives of terrorist or extremist organizations
 * Sharing the slogans, images, flags, manifestos, or icons of terrorist or extremist organizations, either in whole or in readily identifiable part
