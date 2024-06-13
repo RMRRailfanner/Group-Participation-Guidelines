@@ -91,8 +91,10 @@ Discrimination and Hate Speech: Any posts or discussions containing discriminati
 * Caste
 * Familial status
 
-Profanity: Members are expected to maintain a respectful tone in their interactions. We do not permit excessive or inappropriate language in posts or discussions, including:
-* Text, music videos, or images containing profanity
+Profanity: Members are expected to maintain a respectful tone in their interactions. We do not permit any posts or discussions that:
+* Use vulgar or offensive language.
+* Share or link to music videos, images, or any media containing profanity.
+* Post comments or messages with explicit or abusive content.
 
 Political Content: Our community does not allow sharing of political news or discussions related to elections. This includes:
 * Current candidates running for public office, including their slogans, campaign material, rallies, or events
