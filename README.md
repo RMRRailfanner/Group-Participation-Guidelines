@@ -121,8 +121,7 @@ Spamming: We do not tolerate spam or unsolicited advertisements, including:
 * Repetitive posting or flooding of content
 * Promotion of unrelated products or services
 
-Impersonation: Any attempts to impersonate members or administrators for deceptive purposes are strictly prohibited.
-Advertising: While advertising is permitted, promotional content must adhere to our community standards of respect and civility.
+Advertising: While advertising is permitted, promotional content must adhere to our community standards of civility and respect.
 
 **SECURITY & PRIVACY:
 To ensure the safety and privacy of our members, certain guidelines regarding personal information and digital security are in place, including:**
