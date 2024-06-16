@@ -12,6 +12,8 @@ These guidelines apply to all interactions within our community and with other m
 
 We appreciate your cooperation with these guidelines and commitment to making our community a safe and respectful space for everyone.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **SAFETY:
 We want our community to be a place where our members can connect with optimism and civility, regardless of their identity or beliefs. To ensure that our community is a place where everyone feels safe and comfortable being here, the following is not allowed:**
 
@@ -75,6 +77,8 @@ Dangerous Activities: We do not permit discussions or posts that encourage or de
 * Drunk driving or use of weapons inappropriately
 * Engaging in risky activities that may cause harm
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **CIVILITY & RESPECT:
 All members are expected to treat each other with kindness and respect. To ensure that our community is a civil environment for everyone, the following is prohibited:**
 
@@ -110,6 +114,8 @@ Real Life Tragedy Events: We do not permit the promotion or discussion of real-w
 * Posting or sharing content related to sensitive events
 * Mocking or reenacting tragic incidents
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **FAIRNESS & TRANSPARENCY:
 Our community values transparency and fairness in all interactions. To maintain this ethos, the following is not prohibited:**
 
@@ -122,6 +128,8 @@ Spamming: We do not tolerate spam or unsolicited advertisements, including:
 * Promotion of unrelated products or services
 
 Advertising: Advertising is allowed, but promotional content must adhere to our community standards of civility and respect.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **SECURITY & PRIVACY:
 To ensure the safety and privacy of our members, certain guidelines regarding personal information and digital security are in place, including:**
@@ -138,6 +146,8 @@ Sharing or Asking for PII (Personal Identifiable Information): We do not allow t
 Harmful Platform Referrals: Members are prohibited from directing others to platforms known for harmful or illegal activities, including:
 * Websites or forums promoting violence, hate speech, scams, or malware
 * Platforms encouraging unethical behavior
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **MISUSING GROUP FUNCTIONS:
 Our community maintains various features to ensure the safety and security of our members. Inappropriate use of these features is strictly prohibited, including:**
