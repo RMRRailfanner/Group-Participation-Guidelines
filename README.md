@@ -6,9 +6,9 @@ Our Group Participation Guidelines are organized into five sections:
 * Civility and Respect
 * Fairness and Transparency
 * Security and Privacy
-* Inappropriate Use of Group Features
+* Misuing Group Functions
 
-These guidelines apply to all of your actions in our community and with other members. We ask that you respect our standards — and understand that violating them may result in temporary or permanent suspensions from our community.. We’re always learning, so as our community evolves and grows, these Guidelines may also change.
+These guidelines apply to all interactions within our community and with other members. We ask that you respect our standards, understanding that violations may result in warnings, temporary, or permanent bans from the group to be placed against you. As we continue to learn and grow, these guidelines may evolve to better serve our community. For some behavior that violates these guidelines, such as behavior that poses a physical real-life risk to others, we have the right to contact or cooperate with the relevant authorities in order to keep everyone safe
 
 We appreciate your cooperation with these guidelines and commitment to making our community a safe and respectful space for everyone.
 
@@ -121,12 +121,12 @@ Spamming: We do not tolerate spam or unsolicited advertisements, including:
 * Repetitive posting or flooding of content
 * Promotion of unrelated products or services
 
-Advertising: While advertising is permitted, promotional content must adhere to our community standards of civility and respect.
+Advertising: Advertising is allowed, but promotional content must adhere to our community standards of civility and respect.
 
 **SECURITY & PRIVACY:
 To ensure the safety and privacy of our members, certain guidelines regarding personal information and digital security are in place, including:**
 
-Sharing Personal Information: We do not allow the sharing or solicitation of personal information, including:
+Sharing or Asking for PII (Personal Identifiable Information): We do not allow the sharing or solicitation of personal information, including:
 * Email address
 * Passwords
 * Home address or physical location
@@ -139,17 +139,16 @@ Harmful Platform Referrals: Members are prohibited from directing others to plat
 * Websites or forums promoting violence, hate speech, scams, or malware
 * Platforms encouraging unethical behavior
 
-**INAPPROPRIATE USE OF GROUP FEATURES:
+**MISUSING GROUP FUNCTIONS:
 Our community maintains various features to ensure the safety and security of our members. Inappropriate use of these features is strictly prohibited, including:**
 
 * Using borrowed accounts to evade suspensions
-* Masking location with VPNs to evade suspensions
-* Tagging others in Posts
+* Spam tagging other members in Posts
 * Spamming Reactions to Posts
 * Spam Reports other posts, especially if it doesn't violate our group participation guidelines
 * Wasting moderators' time with frivolous reports.
 
-By joining our community, you agree to respect these guidelines. Violations of these set guidelines may result in temporary or permanent suspensions. Let's work together to create a safe and welcoming space for everyone.
+By joining our community, you agree to respect these guidelines. Violations of these set guidelines may result in temporary or permanent bans against you. Let's work together to create a safe and welcoming space for everyone.
 
 Community Assistance Form:
 https://docs.google.com/forms/d/e/1FAIpQLSd9qeIY1Z7R4mW8Uqn0eafocVJts_vRH2sk4JVSHusMsJfz4Q/viewform
