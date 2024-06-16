@@ -8,7 +8,7 @@ Our Group Participation Guidelines are organized into five sections:
 * Security and Privacy
 * Misuing Group Functions
 
-These guidelines apply to all interactions within our community and with other members. We ask that you respect our standards, understanding that violations may result in warnings, temporary, or permanent bans from the group to be placed against you. As we continue to learn and grow, these guidelines may evolve to better serve our community. For some behavior that violates these guidelines, such as behavior that poses a physical real-life risk to others, we have the right to contact or cooperate with the relevant authorities in order to keep everyone safe
+These guidelines apply to all interactions within our community and with other members. We ask that you respect our standards, understanding that violations may result in warnings, temporary, or permanent bans from the group to be placed against you. As we continue to learn and grow, these guidelines may evolve to better serve our community. For some behavior that violates these guidelines, such as behavior that poses a physical real-life risk to others, we have the right to contact or cooperate with the relevant authorities in order to keep everyone safe.
 
 We appreciate your cooperation with these guidelines and commitment to making our community a safe and respectful space for everyone.
 
