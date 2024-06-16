@@ -13,9 +13,9 @@ These guidelines apply to all interactions within our community and with other m
 We appreciate your cooperation with these guidelines and commitment to making our community a safe and respectful space for everyone.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-**SAFETY:
-We want our community to be a place where our members can connect with optimism and civility, regardless of their identity or beliefs. To ensure that our community is a place where everyone feels safe and comfortable being here, the following is not allowed:**
+SAFETY
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+**We want our community to be a place where our members can connect with optimism and civility, regardless of their identity or beliefs. To ensure that our community is a place where everyone feels safe and comfortable being here, the following is not allowed:**
 
 Child Endangerment: Our Community has a zero-tolerance policy for endangering minors, Including:
 * Any predatory behavior, including attempting to befriend a minor in order to manipulate and exploit them (aka grooming)
@@ -82,9 +82,9 @@ Dangerous Activities: We do not permit discussions or posts that encourage or de
 * Encouraging reckless behavior that poses a risk to oneself or others
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-**CIVILITY & RESPECT:
-All members are expected to treat each other with kindness and respect. To ensure that our community is a civil environment for everyone, the following is prohibited:**
+CIVILITY & RESPECT
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+**All members are expected to treat each other with kindness and respect. To ensure that our community is a civil environment for everyone, the following is prohibited:**
 
 Discrimination and Hate Speech: Any posts or discussions containing discrimination, slurs, or hate speech are strictly prohibited. This includes:
 * Age
@@ -119,9 +119,9 @@ Real Life Tragedy Events: We do not permit the promotion or discussion of real-w
 * Mocking or reenacting tragic incidents
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-**FAIRNESS & TRANSPARENCY:
-Our community values transparency and fairness in all interactions. To maintain this ethos, the following is not prohibited:**
+FAIRNESS & TRANSPARENCY
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Our community values transparency and fairness in all interactions. To maintain this ethos, the following is not prohibited:**
 
 Scamming: Any attempts to deceive or defraud members through scams are strictly prohibited, including:
 * Misleading members into fraudulent schemes
@@ -134,9 +134,9 @@ Spamming: We do not tolerate spam or unsolicited advertisements, including:
 Advertising: Advertising is allowed, but promotional content must adhere to our community standards of civility and respect.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-**SECURITY & PRIVACY:
-To ensure the safety and privacy of our members, certain guidelines regarding personal information and digital security are in place, including:**
+SECURITY & PRIVACY
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+**To ensure the safety and privacy of our members, certain guidelines regarding personal information and digital security are in place, including:**
 
 Sharing or Asking for PII (Personal Identifiable Information): We do not allow the sharing or solicitation of personal information, including:
 * Email address
@@ -152,10 +152,9 @@ Harmful Platform Referrals: Members are prohibited from directing others to plat
 * Platforms encouraging unethical behavior
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-**MISUSING GROUP FUNCTIONS:
-Our community maintains various features to ensure the safety and security of our members. Inappropriate use of these features is strictly prohibited, including:**
-
+MISUSING GROUP FUNCTIONS
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Our community maintains various features to ensure the safety and security of our members. Inappropriate use of these features is strictly prohibited, including:**
 * Using borrowed accounts to evade suspensions
 * Spam tagging other members in Posts
 * Spamming Reactions to Posts
