@@ -74,8 +74,12 @@ Illegal Activities: Discussions or posts advocating illegal or regulated activit
 * If you or someone you know is struggling with substance abuse, help is available. You can start here: (https://www.samhsa.gov/public-messages)
 
 Dangerous Activities: We do not permit discussions or posts that encourage or depict hazardous behaviors, such as:
-* Drunk driving or use of weapons inappropriately
-* Engaging in risky activities that may cause harm
+* Engaging in or promoting illegal activities
+* Sharing content related to extreme violence, gore, or graphic imagery
+* Promoting dangerous stunts or challenges that may cause physical harm
+* Encouraging or glorifying substance abuse or dangerous consumption practices
+* Sharing instructions or materials related to weapons or explosives
+* Encouraging reckless behavior that poses a risk to oneself or others
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
