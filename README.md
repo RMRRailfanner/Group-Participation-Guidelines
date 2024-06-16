@@ -12,6 +12,8 @@ These guidelines apply to all interactions within our community and with other m
 
 We appreciate your cooperation with these guidelines and commitment to making our community a safe and respectful space for everyone.
 
+
+
 **SAFETY:
 We want our community to be a place where our members can connect with optimism and civility, regardless of their identity or beliefs. To ensure that our community is a place where everyone feels safe and comfortable being here, the following is not allowed:**
 
