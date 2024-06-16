@@ -1,4 +1,4 @@
-We are building our community: a space for people to experience and learn about the railfanning hobby and we are a global community on this journey together, and we want to ensure everyone feels welcome and safe and is treated with kindness and respect in our community. That’s why we’ve created these Participation Guidelines: to outline how we expect our members to behave, and to be clear up front about what is and isn’t allowed in our community.
+Welcome to our railfanning community! We are a global group of enthusiasts passionate about sharing and learning together in this fascinating hobby. Our goal is to create a welcoming and safe environment where everyone is treated with kindness and respect. To achieve this, we have established these Participation Guidelines. They outline our expectations for member behavior and clarify what is and isn’t acceptable in our community.
 
 Our Group Participation Guidelines are organized into five sections:
 
@@ -8,7 +8,7 @@ Our Group Participation Guidelines are organized into five sections:
 * Security and Privacy
 * Inappropriate Use of Group Features
 
-These guidelines apply to all of your actions in our community and with other members. We ask that you respect our standards — and understand that violating them may result in temporary or permanent suspensions from our community.. We’re always learning, so as our community evolves and grows, these Community Standards may also change.
+These guidelines apply to all of your actions in our community and with other members. We ask that you respect our standards — and understand that violating them may result in temporary or permanent suspensions from our community.. We’re always learning, so as our community evolves and grows, these Guidelines may also change.
 
 We appreciate your cooperation with these guidelines and commitment to making our community a safe and respectful space for everyone.
 
