@@ -160,6 +160,8 @@ Harmful Platform Referrals: Members are prohibited from directing others to plat
 * Spamming Reactions to Posts
 * Spam Reports other posts, especially if it doesn't violate our group participation guidelines
 * Wasting moderators' time with frivolous reports.
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+**NOTE:**
 
 By joining our community, you agree to respect these guidelines. Violations of these set guidelines may result in temporary or permanent bans against you. Let's work together to create a safe and welcoming space for everyone.
 
