@@ -121,7 +121,7 @@ Real Life Tragedy Events: We do not permit the promotion or discussion of real-w
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 **FAIRNESS & TRANSPARENCY**
 
-**Our community values transparency and fairness in all interactions. To maintain this ethos, the following is not prohibited:**
+**Our community values transparency and fairness in all interactions. To maintain this ethos, the following is strictly prohibited:**
 
 Scamming: Any attempts to deceive or defraud members through scams are strictly prohibited, including:
 * Misleading members into fraudulent schemes
