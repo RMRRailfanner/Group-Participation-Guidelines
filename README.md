@@ -15,7 +15,7 @@
 **We appreciate your cooperation with these guidelines and commitment to making our community a safe and respectful space for everyone.**
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-**SAFETY**
+**(SAFETY) ---------------------------------------------------------------------------- VVV**
 
 **We want our community to be a place where our members can connect with optimism and civility, regardless of their identity or beliefs. To ensure that our community is a place where everyone feels safe and comfortable being here, the following is not allowed:**
 
@@ -84,10 +84,8 @@
 - **Encouraging or glorifying substance abuse or dangerous consumption practices**
 - **Sharing instructions or materials related to weapons or explosives**
 - **Encouraging reckless behavior that poses a risk to oneself or others**
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-**CIVILITY & RESPECT:**
+**(CIVILITY AND RESPECT) ---------------------------------------------------------------------------- VVV**
 
 **All members are expected to treat each other with kindness and respect. To ensure that our community is a civil environment for everyone, the following is prohibited:**
 
@@ -123,9 +121,8 @@
 **Real Life Tragedy Events: We do not permit the promotion or discussion of real-world tragedy events. This includes:**
 - **Posting or sharing content related to sensitive events**
 - **Mocking or reenacting tragic incidents**
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-**FAIRNESS & TRANSPARENCY**
+**(FAIRNESS AND TRANSPARENCY) ---------------------------------------------------------------------------- VVV**
 
 **Our community values transparency and fairness in all interactions. To maintain this ethos, the following is strictly prohibited:**
 
@@ -141,7 +138,7 @@
 **Advertising: Advertising is allowed, but promotional content must adhere to our community standards of civility and respect.**
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-**SECURITY & PRIVACY**
+**(SECURITY AND PRIVACY) ---------------------------------------------------------------------------- VVV**
 
 **To ensure the safety and privacy of our members, certain guidelines regarding personal information and digital security are in place, including:**
 
@@ -158,9 +155,10 @@
 **Harmful Platform Referrals: Members are prohibited from directing others to platforms known for harmful or illegal activities, including:**
 - **Websites or forums promoting violence, hate speech, scams, or malware**
 - **Platforms encouraging unethical behavior**
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-**MISUSING GROUP FEATURES - Our community maintains various features to ensure the safety and security of our members. Inappropriate use of these features is strictly prohibited, including:**
+**(MUSUSING GROUP FEATURES) ---------------------------------------------------------------------------- VVV**
+
+**Our community maintains various features to ensure the safety and security of our members. Inappropriate use of these features is strictly prohibited, including:**
 - **Using or borrowing accounts to evade suspensions**
 - **Creating fake or unauthorized events to mislead or confuse our group members**
 - **Posting images or videos that aren't releveant to trains or is NSFW**
