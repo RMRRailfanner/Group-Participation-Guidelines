@@ -159,6 +159,8 @@
 **(MUSUSING GROUP FEATURES) ---------------------------------------------------------------------------- VVV**
 
 **Our community maintains various features to ensure the safety and security of our members. Inappropriate use of these features is strictly prohibited, including:**
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 - **Using or borrowing accounts to evade suspensions**
 - **Creating fake or unauthorized events to mislead or confuse our group members**
 - **Posting images or videos that aren't releveant to trains or is NSFW**
