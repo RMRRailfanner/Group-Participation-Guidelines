@@ -8,7 +8,7 @@
 - **Civility and Respect**
 - **Fairness and Transparency**
 - **Security and Privacy**
-- **Misuing Group Features**
+- **Misuing Group Systems**
 
 **These guidelines apply to all interactions within our community and with other members. We ask that you respect our standards, understanding that violations may result in warnings, temporary, or permanent bans from the group to be placed against you. As we continue to learn and grow, these guidelines may evolve to better serve our community. For some behavior that violates these guidelines, such as behavior that poses a physical real-life risk to others, we have the right to contact or cooperate with the relevant authorities in order to keep everyone safe.**
 
@@ -156,7 +156,7 @@
 - **Websites or forums promoting violence, hate speech, scams, or malware**
 - **Platforms encouraging unethical behavior**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-**(MUSUSING GROUP FEATURES) ---------------------------------------------------------------------------- VVV**
+**(MUSUSING GROUP SYSTEMS) ---------------------------------------------------------------------------- VVV**
 
 **Our community maintains various features to ensure the safety and security of our members. Inappropriate use of these features is strictly prohibited, including:**
 
