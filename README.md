@@ -15,23 +15,28 @@
 **We appreciate your cooperation with these guidelines and commitment to making our community a safe and respectful space for everyone.**
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-**(SAFETY) ---------------------------------------------------------------------------- VVV**
+**SAFETY**
 
 **We want our community to be a place where our members can connect with optimism and civility, regardless of their identity or beliefs. To ensure that our community is a place where everyone feels safe and comfortable being here, the following is not allowed:**
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Child Endangerment: Our Community has a zero-tolerance policy for endangering minors, Including:**
+**Child Endangerment**
 
+**Our Community has a zero-tolerance policy for endangering minors, Including:**
 - **Any predatory behavior, including attempting to befriend a minor in order to manipulate and exploit them (aka grooming)**
 - **Sexualizing minors in any way**
 - **Engaging in sexual conversation with or soliciting sexual material from minors**
 - **Sharing, requesting, or discussing child sexual exploitation material**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Threats of Harm: Any posts or discussions containing real-life threats are strictly prohibited, including:**
+**Threats of Harm**
+
+**Any posts or discussions containing real-life threats are strictly prohibited, including:**
 - **Death threats or threats of bodily harm towards others**
 - **Physical altercations or violence**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Bullying/Harassment: Respectful and considerate communication is expected at all times. We do not tolerate any posts or discussions that:**
+**Bullying/Harassment**
+
+**Respectful and considerate communication is expected at all times. We do not tolerate any posts or discussions that:**
 - **Threaten physical or sexual assault or violence**
 - **Threaten to Extort or Blackmail someone to force them to do something they do not want to do.**
 - **Threaten any kind harm someone in real life**
@@ -41,13 +46,17 @@
 - **Sexual harassment**
 - **Impersonate individuals, groups, or entities, in ways that may damage their reputation or cause others to harm them, either online or in real life**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Suicide/Self-Harm: We do not allow any content related to Suicide/Self-Harm, including:**
+**Suicide/Self-Harm**
+
+**We do not allow any content related to Suicide/Self-Harm, including:**
 - **Describing methods for suicide or self-harm**
 - **Content that glorifies, supports, or depicts instances or methods of suicide or self-harm**
 - **Dangerous physical challenges or stunts in the real world**
 - **If you or someone you know are having thoughts of Suicide/Self-Harm, Do not wait, call for help immediately: https://988lifeline.org**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Sexual Content: Our community does not permit any discussions or posts involving sexual content, including:**
+**Sexual Content**
+
+**Our community does not permit any discussions or posts involving sexual content, including:**
 - **Romantic or flirtatious gestures or communication between users in a romantic context**
 - **Pursuing or soliciting romantic relationships online**
 - **Engaging in unwanted flirtatious behavior**
@@ -55,11 +64,15 @@
 - **Content that depicts, strongly suggests, or explicitly describes sexual acts**
 - **Nudity**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Violent Content/Gore: Content featuring graphic violence or gore is prohibited, including:**
+**Violent Content/Gore**
+
+**Content featuring graphic violence or gore is prohibited, including:**
 - **Disturbing images depicting violent acts or gore**
 - **Videos showcasing violent incidents**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Terrorism/Violent Extremism: Our Community has a zero-tolerance policy for Terrorism/Violent Extremism. any content promoting or glorifying such acts is not tolerated, including:**
+**Terrorism/Violent Extremism**
+
+**Our Community has a zero-tolerance policy for Terrorism/Violent Extremism. any content promoting or glorifying such acts is not tolerated, including:**
 - **Depictions of or support for terrorist or extremist attacks**
 - **Depictions of or support for the leaders or representatives of terrorist or extremist organizations**
 - **Sharing the slogans, images, flags, manifestos, or icons of terrorist or extremist organizations, either in whole or in readily identifiable part**
@@ -69,7 +82,9 @@
 - **Fundraising for terrorist or extremist organizations, people, or supporting groups**
 - **Expressing support, condoning, or glorifying mass shootings and other acts of domestic terrorism or violent extremism**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Illegal Activities: Discussions or posts advocating illegal or regulated activities are strictly prohibited, including:**
+**Illegal Activities**
+
+**Discussions or posts advocating illegal or regulated activities are strictly prohibited, including:**
 - **Controlled substances such pharmaceutical and recreational drugs, as well as as alcohol, tobacco, vaping, and their associated paraphernalia**
 - **Dietary supplements and enhancers such as weight loss pills and steroids**
 - **Depictions of intoxicated behavior associated with consuming alcohol or drugs**
@@ -77,7 +92,9 @@
 - **Bomb/explosive and weapon-making instructions or schematics in the real world**
 - **If you or someone you know is struggling with substance abuse, help is available: https://www.samhsa.gov/public-messages**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Dangerous Activities: We do not permit discussions or posts that encourage or depict hazardous behaviors, such as:**
+**Dangerous Activities**
+
+**We do not permit discussions or posts that encourage or depict hazardous behaviors, such as:**
 - **Engaging in or promoting illegal activities**
 - **Sharing content related to extreme violence, gore, or graphic imagery**
 - **Promoting dangerous stunts or challenges that may cause physical harm**
@@ -85,12 +102,13 @@
 - **Sharing instructions or materials related to weapons or explosives**
 - **Encouraging reckless behavior that poses a risk to oneself or others**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-**(CIVILITY AND RESPECT) ---------------------------------------------------------------------------- VVV**
+**CIVILITY AND RESPECT**
 
 **All members are expected to treat each other with kindness and respect. To ensure that our community is a civil environment for everyone, the following is prohibited:**
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Discrimination, Slurs, and Hate Speech: Any posts or discussions containing discrimination, slurs, or hate speech are strictly prohibited. This includes:**
+**Discrimination, Slurs, and Hate Speech**
+
+**Any posts or discussions containing discrimination, slurs, or hate speech are strictly prohibited. This includes:**
 - **Age**
 - **Race, perceived race, or ethnicity**
 - **National origin**
@@ -103,12 +121,16 @@
 - **Caste**
 - **Familial status**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Profanity: Members are expected to maintain a respectful tone in their interactions. We do not permit any posts or discussions that:**
+**Profanity**
+
+**Members are expected to maintain a respectful tone in their interactions. We do not permit any posts or discussions that:**
 - **Use vulgar or offensive language**
 - **Share or link to music videos, images, or any media containing profanity**
 - **Post comments or messages with explicit or abusive content**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Political Content: Our community does not allow sharing of political news or discussions related to elections. This includes:**
+**Political Content**
+
+**Our community does not allow sharing of political news or discussions related to elections. This includes:**
 - **Current candidates running for public office, including their slogans, campaign material, rallies, or events**
 - **Political parties, including official party-affiliated organizations**
 - **Specific races for elected office**
@@ -118,32 +140,40 @@
 - **Desecration of political entity symbols, including flag burning**
 - **Inflammatory content related to real world border, territorial, or jurisdictional relationships**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Real Life Tragedy Events: We do not permit the promotion or discussion of real-world tragedy events. This includes:**
+**Real Life Tragedy Events**
+
+**We do not permit the promotion or discussion of real-world tragedy events. This includes:**
 - **Posting or sharing content related to sensitive events**
 - **Mocking or reenacting tragic incidents**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-**(FAIRNESS AND TRANSPARENCY) ---------------------------------------------------------------------------- VVV**
+**FAIRNESS AND TRANSPARENCY**
 
 **Our community values transparency and fairness in all interactions. To maintain this ethos, the following is strictly prohibited:**
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Scamming: Any attempts to deceive or defraud members through scams are strictly prohibited, including:**
+**Scamming**
+
+**Any attempts to deceive or defraud members through scams are strictly prohibited, including:**
 - **Misleading members into fraudulent schemes**
 - **Soliciting money or personal information under false pretenses**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Spamming: We do not tolerate spam or unsolicited advertisements, including:**
+**Spamming**
+
+**We do not tolerate spam or unsolicited advertisements, including:**
 - **Repetitive posting or flooding of content**
 - **Promotion of unrelated products or services**
 
-**Advertising: Advertising is allowed, but promotional content must adhere to our community standards of civility and respect.**
+**Advertising**
+
+**Advertising is allowed, but promotional content must adhere to our community standards of civility and respect.**
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-**(SECURITY AND PRIVACY) ---------------------------------------------------------------------------- VVV**
+**SECURITY AND PRIVACY**
 
 **To ensure the safety and privacy of our members, certain guidelines regarding personal information and digital security are in place, including:**
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Sharing/Asking for PII (Personal Identifiable Information): We do not allow the sharing or solicitation of personal information, including:**
+**Sharing/Asking for PII (Personal Identifiable Information)**
+
+**We do not allow the sharing or solicitation of personal information, including:**
 - **Email address**
 - **Passwords**
 - **Home address or physical location**
@@ -152,15 +182,15 @@
 - **Telephone number**
 - **Sensitive credentials such as social security number**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Harmful Platform Referrals: Members are prohibited from directing others to platforms known for harmful or illegal activities, including:**
+**Harmful Platform Referrals**
+
+**Members are prohibited from directing others to platforms known for harmful or illegal activities, including:**
 - **Websites or forums promoting violence, hate speech, scams, or malware**
 - **Platforms encouraging unethical behavior**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-**(MUSUSING GROUP SYSTEMS) ---------------------------------------------------------------------------- VVV**
+**MISUSING GROUP SYSTEMS**
 
 **Our community maintains various features to ensure the safety and security of our members. Inappropriate use of these features is strictly prohibited, including:**
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------
 - **Using or borrowing accounts to evade suspensions**
 - **Creating fake or unauthorized events to mislead or confuse our group members**
 - **Posting images or videos that aren't releveant to trains or is NSFW**
