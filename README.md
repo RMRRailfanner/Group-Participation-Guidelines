@@ -106,6 +106,8 @@
 
 **All members are expected to treat each other with kindness and respect. To ensure that our community is a civil environment for everyone, the following is prohibited:**
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **Discrimination, Slurs, and Hate Speech**
 
 **Any posts or discussions containing discrimination, slurs, or hate speech are strictly prohibited. This includes:**
@@ -150,6 +152,7 @@
 
 **Our community values transparency and fairness in all interactions. To maintain this ethos, the following is strictly prohibited:**
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Scamming**
 
 **Any attempts to deceive or defraud members through scams are strictly prohibited, including:**
@@ -171,6 +174,7 @@
 
 **To ensure the safety and privacy of our members, certain guidelines regarding personal information and digital security are in place, including:**
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Sharing/Asking for PII (Personal Identifiable Information)**
 
 **We do not allow the sharing or solicitation of personal information, including:**
@@ -191,6 +195,8 @@
 **MISUSING GROUP SYSTEMS**
 
 **Our community maintains various features to ensure the safety and security of our members. Inappropriate use of these features is strictly prohibited, including:**
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 - **Using or borrowing accounts to evade suspensions**
 - **Creating fake or unauthorized events to mislead or confuse our group members**
 - **Posting images or videos that aren't releveant to trains or is NSFW**
