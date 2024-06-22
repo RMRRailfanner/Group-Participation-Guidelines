@@ -12,7 +12,7 @@
 
 **These guidelines apply to all interactions within our community and with other members. We ask that you respect our standards, understanding that violations may result in warnings, temporary, or permanent bans from the group to be placed against you. As we continue to learn and grow, these guidelines may evolve to better serve our community.**
 
-**For some behavior that violates these guidelines, such as behavior that poses a physical real-life risk to others, we have the right to contact or cooperate with the relevant authorities in order to keep everyone safe.**
+**NOTE: For behavior that violates these guidelines, such as behavior that poses a physical real-life risk to others, we have the right to contact or cooperate with the relevant authorities in order to keep everyone safe.**
 
 **We appreciate your cooperation with these guidelines and commitment to making our community a safe and respectful space for everyone.**
 
@@ -38,6 +38,7 @@
 - **Expressing support, condoning, or glorifying mass shootings and other acts of domestic terrorism or violent extremism**
 
 **Bullying/Harassment - Respectful and considerate communication is expected at all times. We do not tolerate any posts or discussions that:**
+
 - **Threaten physical or sexual assault or violence**
 - **Threaten to Extort or Blackmail someone to force them to do something they do not want to do.**
 - **Threaten any kind harm someone in real life**
@@ -47,8 +48,8 @@
 - **Sexual harassment**
 - **Impersonate individuals, groups, or entities, in ways that may damage their reputation or cause others to harm them, either online or in real life**
 
-- **Threats of Physical Harm - Any posts or discussions containing real-life threats toward our members are strictly prohibited, including:**
-- **Death threats or threats of bodily harm towards others**
+**Threats of Physical Harm - Any posts or discussions that poses a real-life physical threat toward the members of our community are strictly prohibited, including:**
+- **Death threats or threats of bodily harm**
 - **Physical altercations or violence**
 
 **Suicide/Self-Harm - We do not allow any content related to Suicide/Self-Harm, including:**
@@ -154,7 +155,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 **MISUSING GROUP SYSTEMS**
 
-**Our community maintains various features to ensure the safety and security of our members. Inappropriate use of these features is strictly prohibited, including:**
+**Our community maintains various features to ensure the safety and security of our members. misuse of these features is strictly prohibited, including:**
 - **Using or borrowing accounts to evade suspensions**
 - **Creating fake or unauthorized events to mislead or confuse our group members**
 - **Posting images or videos that aren't releveant to trains or is NSFW**
@@ -162,7 +163,7 @@
 - **Sharing photos or videos that don't belong to you unless you have permission from the original owner**
 - **Spam reporting posts that are not in violation of our groups' participation guidelines**
 - **Using group chats or private messages to try and sneak inappropriate content or links to other members**
-- **Creating invities to specifically allow trollers access to our group**
+- **Sending invities to trollers and allowing them to gain unauthorized access to our group and cause trouble**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 **NOTE: By joining our community, you agree to respect these guidelines. Violations of these set guidelines may result in temporary or permanent bans against you. Let's work together to create a safe and welcoming space for everyone.**
 
