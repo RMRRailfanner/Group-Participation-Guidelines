@@ -27,9 +27,15 @@
 - **Engaging in sexual conversation with or soliciting sexual material from minors**
 - **Sharing, requesting, or discussing child sexual exploitation material**
 
-**Threats of Harm - Any posts or discussions containing real-life threats are strictly prohibited, including:**
-- **Death threats or threats of bodily harm towards others**
-- **Physical altercations or violence**
+**Terrorism/Violent Extremism - Our Community has a zero-tolerance policy for Terrorism/Violent Extremism. any content promoting or glorifying such acts is not tolerated, including:**
+- **Depictions of or support for terrorist or extremist attacks**
+- **Depictions of or support for the leaders or representatives of terrorist or extremist organizations**
+- **Sharing the slogans, images, flags, manifestos, or icons of terrorist or extremist organizations, either in whole or in readily identifiable part**
+- **References to the ideologies, messages, or strategies of terrorist and extremist organizations**
+- **Expressing support, condoning, or glorifying terrorist extremist ideologies or actions**
+- **Recruiting membership for a terrorist or extremist organization, or encouraging others to look up such information**
+- **Fundraising for terrorist or extremist organizations, people, or supporting groups**
+- **Expressing support, condoning, or glorifying mass shootings and other acts of domestic terrorism or violent extremism**
 
 **Bullying/Harassment - Respectful and considerate communication is expected at all times. We do not tolerate any posts or discussions that:**
 - **Threaten physical or sexual assault or violence**
@@ -40,6 +46,10 @@
 - **Singling out a user or group for ridicule or abuse, either publicly or privately**
 - **Sexual harassment**
 - **Impersonate individuals, groups, or entities, in ways that may damage their reputation or cause others to harm them, either online or in real life**
+
+- **Threats of Physical Harm - Any posts or discussions containing real-life threats toward our members are strictly prohibited, including:**
+- **Death threats or threats of bodily harm towards others**
+- **Physical altercations or violence**
 
 **Suicide/Self-Harm - We do not allow any content related to Suicide/Self-Harm, including:**
 - **Describing methods for suicide or self-harm**
@@ -58,16 +68,6 @@
 **Violent Content/Gore - Content featuring graphic violence or gore is prohibited, including:**
 - **Disturbing images depicting violent acts or gore**
 - **Videos showcasing violent incidents**
-
-**Terrorism/Violent Extremism - Our Community has a zero-tolerance policy for Terrorism/Violent Extremism. any content promoting or glorifying such acts is not tolerated, including:**
-- **Depictions of or support for terrorist or extremist attacks**
-- **Depictions of or support for the leaders or representatives of terrorist or extremist organizations**
-- **Sharing the slogans, images, flags, manifestos, or icons of terrorist or extremist organizations, either in whole or in readily identifiable part**
-- **References to the ideologies, messages, or strategies of terrorist and extremist organizations**
-- **Expressing support, condoning, or glorifying terrorist extremist ideologies or actions**
-- **Recruiting membership for a terrorist or extremist organization, or encouraging others to look up such information**
-- **Fundraising for terrorist or extremist organizations, people, or supporting groups**
-- **Expressing support, condoning, or glorifying mass shootings and other acts of domestic terrorism or violent extremism**
 
 **Illegal Activities - Discussions or posts advocating illegal or regulated activities are strictly prohibited, including:**
 - **Controlled substances such pharmaceutical and recreational drugs, as well as as alcohol, tobacco, vaping, and their associated paraphernalia**
