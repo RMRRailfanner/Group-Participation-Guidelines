@@ -1,4 +1,4 @@
-**Welcome to our community! We are a global group of train enthusiasts passionate about sharing and learning together in this fascinating hobby. Our goal is to create a welcoming and safe environment where everyone is treated with kindness and respect. To achieve this, we have established these Participation standards. They outline our expectations for member behavior and clarify what is and isn’t acceptable in our community.**
+**Welcome to our community! We are a global group of train enthusiasts passionate about sharing and learning together in this fascinating hobby. Our goal is to create a welcoming and safe environment where everyone is treated with kindness and respect. To achieve this, we have established these standards. They outline our expectations for member behavior and clarify what is and isn’t acceptable in our community.**
 
 **Our Community Standards are organized into five sections:**
 
