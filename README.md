@@ -147,7 +147,7 @@
 - **Creating fake or unauthorized events to mislead or confuse our group members**
 - **Posting images or videos that aren't releveant to trains or is NSFW**
 - **Posting fake news about anything, even if it's not train related**
-- **Sharing photos or videos that don't belong to you unless you have permission from the original owner**
+- **Sharing photos or videos that don't belong to you (aka copyright infringment)**
 - **Spam reporting posts that are not in violation of our groups' participation guidelines**
 - **Using group chats or private messages to try and sneak inappropriate content or links to other members**
 - **Sending invities to trollers and allowing them to gain unauthorized access to our group and cause trouble**
