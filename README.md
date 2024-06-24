@@ -14,6 +14,9 @@ For certain behaviors that violates these community standards, such as actions t
 
 We appreciate your cooperation with these standards and commitment to making our community a safe and civil space for everyone.
 
+TERMS OF USE:
+https://github.com/RMRRailfanner/RA.Terms.Of.Use/blob/4bc8be9e0f9012aa739907d6c4633fa202a1757f/README.md
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 SAFETY - We want our community to be a place where everyone can connect with optimism and civility, regardless of their identity or beliefs. To ensure that our community is a place where everyone feels comfortable being themselves, the following is not allowed:
 
