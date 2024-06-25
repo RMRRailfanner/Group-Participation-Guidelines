@@ -10,7 +10,7 @@ Our Community Standards are organized into five sections:
 
 These standards apply to all interactions within our community and with other members. We ask that you respect our standards, understanding that violations depending on the severity, may cause warnings or bans (temporary or permanent) to occur. As we continue to learn and grow, these standards may evolve to better serve our community.
 
-For certain behaviors that violates these community standards, such as actions that pose real-life physical risks to others, we reserve the right to contact or cooperate with Law Enforcement agencies or other relevant authorities to ensure the safety and well-being of all participants.
+For certain behaviors that violates these Standards, such as behavior that pose real-life physical risks to others, we reserve the right to contact or cooperate with the relevant authorities in order to keep our members safe.
 
 We appreciate your cooperation with these standards and commitment to making our community a safe and civil space for everyone.
 
