@@ -32,6 +32,8 @@ Terrorism/Violent Extremism - Our Community has a zero-tolerance policy for Terr
 - Recruiting membership for a terrorist or extremist organization, or encouraging others to look up such information
 - Fundraising for terrorist or extremist organizations, people, or supporting groups
 - Expressing support, condoning, or glorifying mass shootings and other acts of domestic terrorism or violent extremism
+- 
+Underage Participants - If you are under the age of 13, parental supervision is required while participating in this group. Parents or guardians are encouraged to oversee their children's online activities and interactions within the group to ensure a safe and enjoyable experience for everyone. Members found to be under the age of 13 and participating without parental supervision will be grounds for a permanent ban from the group.
 
 Bullying/Harassment - Respectful and considerate communication is expected at all times. We do not tolerate any posts or discussions that:
 
@@ -145,7 +147,7 @@ Harmful Platform Referrals - Members are prohibited from directing others to pla
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 MISUSING GROUP SYSTEMS - Our community maintains various features to ensure the safety and security of our members. misuse of these features is not allowed, including:
 
-- Using or borrowing accounts to evade suspensions
+- Using or borrowing accounts to evade bans
 - Creating fake or unauthorized events to mislead or confuse our group members
 - Posting images or videos that aren't releveant to trains or is NSFW
 - Posting fake news about anything, even if it's not train related
