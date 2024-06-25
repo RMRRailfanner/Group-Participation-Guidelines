@@ -153,6 +153,7 @@ MISUSING GROUP SYSTEMS - Our community maintains various features to ensure the 
 - Posting fake news about anything, even if it's not train related
 - Sharing photos or videos that don't belong to you (aka copyright infringment)
 - Spam reporting posts that are not in violation of our groups' participation standards
+- Repeatedly filling out the Community Assistance Form for unnecessary reasons
 - Using group chats or private messages to try and sneak inappropriate content or links to other members
 - Sending invities to trollers and allowing them to gain unauthorized access to our group and cause trouble
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
