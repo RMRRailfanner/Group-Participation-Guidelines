@@ -149,9 +149,9 @@ MISUSING GROUP SYSTEMS - Our community maintains various features to ensure the 
 
 - Using or borrowing accounts to evade bans
 - Creating fake or unauthorized events to mislead or confuse our group members
-- Posting images or videos that aren't releveant to trains or is NSFW
+- Posting images or videos that aren't relevant to trains or is NSFW
 - Posting fake news about anything, even if it's not train related
-- Sharing photos or videos that don't belong to you (aka copyright infringment)
+- Sharing photos or videos that don't belong to you (aka copyright infringement)
 - Spam reporting posts that are not in violation of our groups' participation standards
 - Repeatedly filling out the Community Assistance Form for unnecessary reasons
 - Using group chats or private messages to try and sneak inappropriate content or links to other members
