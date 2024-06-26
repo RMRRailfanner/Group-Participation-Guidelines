@@ -17,10 +17,10 @@ We appreciate your cooperation with these standards and commitment to making our
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 SAFETY - We want our community to be a place where everyone can connect with optimism and civility, regardless of their identity or beliefs. To ensure that our community is a place where everyone feels comfortable being themselves, the following is not allowed:
 
-Child Endangerment - Our Community has a zero-tolerance policy for endangering minors, Including:
-- Any predatory behavior, including attempting to befriend a minor in order to manipulate and exploit them (aka grooming)
-- Sexualizing minors in any way
-- Engaging in sexual conversation with or soliciting sexual material from minors
+Child Endangerment - Our Community has a zero-tolerance policy for endangering children, Including:
+- Any predatory behavior, including attempting to befriend a child in order to manipulate and exploit them (aka grooming)
+- Sexualizing children in any way
+- Engaging in sexual conversation with or soliciting sexual material from children
 - Sharing, requesting, or discussing child sexual exploitation material
 
 Terrorism/Violent Extremism - Our Community has a zero-tolerance policy for Terrorism/Violent Extremism. any content promoting or glorifying such acts is not tolerated, including:
