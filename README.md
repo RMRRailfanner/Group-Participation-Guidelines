@@ -155,7 +155,7 @@ MISUSING GROUP SYSTEMS - Our community maintains various features to ensure the 
 - Spam reporting posts that are not in violation of our groups' participation standards
 - Repeatedly filling out the Community Assistance Form for unnecessary reasons
 - Using group chats or private messages to try and sneak inappropriate content or links to other members
-- Sending invities to trollers and allowing them to gain unauthorized access to our group and cause trouble
+- Sending invites to trollers and allowing them to gain unauthorized access to our group and cause trouble
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 NOTE: By joining our community you agree to respect these standards.
 
