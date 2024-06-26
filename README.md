@@ -23,7 +23,7 @@ Child Endangerment - Our Community has a zero-tolerance policy for endangering m
 - Engaging in sexual conversation with or soliciting sexual material from minors
 - Sharing, requesting, or discussing child sexual exploitation material
 
-Terrorism/Violent Extremism - Our Community has a zero-tolerance policy for Terrorism/Violent Extremism. any content promoting or glorifying such acts is not tolerated, including:
+Terrorism/Violent Extremism - Any posts or discussions promoting or glorifying such acts regarding Terrorism/Violent Extremism is strictly prohibited, including:
 - Depictions of or support for terrorist or extremist attacks
 - Depictions of or support for the leaders or representatives of terrorist or extremist organizations
 - Sharing the slogans, images, flags, manifestos, or icons of terrorist or extremist organizations, either in whole or in readily identifiable part
