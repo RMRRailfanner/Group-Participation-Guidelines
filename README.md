@@ -32,7 +32,7 @@ Terrorism/Violent Extremism - Our Community has a zero-tolerance policy for Terr
 - Recruiting membership for a terrorist or extremist organization, or encouraging others to look up such information
 - Fundraising for terrorist or extremist organizations, people, or supporting groups
 - Expressing support, condoning, or glorifying mass shootings and other acts of domestic terrorism or violent extremism
-- 
+
 Underage Participants - If you are under the age of 13, parental supervision is required while participating in this group. Parents or guardians are encouraged to oversee their children's online activities and interactions within the group to ensure a safe and enjoyable experience for everyone. Members found to be under the age of 13 and participating without parental supervision will be grounds for a permanent ban from the group.
 
 Bullying/Harassment - Respectful and considerate communication is expected at all times. We do not tolerate any posts or discussions that:
