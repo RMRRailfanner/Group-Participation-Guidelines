@@ -20,7 +20,7 @@ SAFETY - We want our community to be a place where everyone can connect with opt
 Child Endangerment - Our Community has a zero-tolerance policy for endangering children, Including:
 - Any predatory behavior, including attempting to befriend a child in order to manipulate and exploit them (aka grooming)
 - Sexualizing children in any way
-- Engaging in sexual conversation with or soliciting sexual material from children
+- Engaging in sexual conversation with or soliciting sexual material from minors
 - Sharing, requesting, or discussing child sexual exploitation material
 
 Terrorism/Violent Extremism - Our Community has a zero-tolerance policy for Terrorism/Violent Extremism. any content promoting or glorifying such acts is not tolerated, including:
